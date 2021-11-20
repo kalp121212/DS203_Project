@@ -19,7 +19,7 @@ IR17-I-1-18698,Indian Institute of Management Ahmedabad,Ahmedabad,Gujarat,54.27,
 IR17-I-2-1-618,Savitribai Phule Pune University,Pune,Maharashtra,52.81,18,56.39,35.03,85.13,72.26,11.20
 IR17-I-2-18189,Aligarh Muslim University,Aligarh,Uttar Pradesh,52.74,19,58.56,36.20,87.43,51.55,16.62
 IR17-I-2-1-2814289415,Jamia Millia Islamia,New Delhi,Delhi,51.75,20,58.98,27.99,81.63,83.55,9.73
-IR17-I-2-18599,Birla Institute of Technology & Science -Pilani,Pilani,Rajasthan,51.46,21,54.83,31.26,73.88,58.50,49.96
+IR17-I-2-18599,Birla Institute of Technology & Science,Pilani,Rajasthan,51.46,21,54.83,31.26,73.88,58.50,49.96
 IR17-I-2-18572,Vellore Institute of Technology,Vellore,Tamil Nadu,51.36,22,41.65,42.87,75.57,75.99,32.95
 IR17-I-2-1-243,Indian Agricultural Research Institute,New Delhi,Delhi,51.20,23,58.22,33.60,74.11,76.79,11.52
 IR17-I-2-1-346,Indian Institute of Technology Indore,Indore,Madhya Pradesh,50.23,24,65.42,32.43,63.50,74.58,7.17
@@ -27,8 +27,8 @@ IR17-I-1-1-217,Indian Institute of Management Bangalore,Bengaluru,Karnataka,49.2
 IR17-I-2-1-345,Indian Institute of Technology Hyderabad,Hyderabad,Telangana,49.07,26,63.51,28.02,62.91,72.21,18.06
 IR17-I-2-18606,Calcutta University,Kolkata,West Bengal,48.90,27,36.34,44.10,95.76,39.02,17.15
 IR17-I-2-15598,Tamil Nadu Agricultural University,Coimbatore,Tamil Nadu,48.84,28,77.67,12.56,75.33,63.48,3.53
-IR17-I-1-18637,"Indian Institute of Science Education & Research, Pune",Pune,Maharashtra,48.28,29,63.94,28.43,52.74,76.10,24.13
-IR17-I-2-18364,Manipal Academy of Higher Education-Manipal,Manipal,Karnataka,48.27,30,64.76,29.31,58.66,55.51,27.67
+IR17-I-1-18637,Indian Institute of Science Education & Research Pune,Pune,Maharashtra,48.28,29,63.94,28.43,52.74,76.10,24.13
+IR17-I-2-18364,Manipal Academy of Higher Education,Manipal,Karnataka,48.27,30,64.76,29.31,58.66,55.51,27.67
 IR17-I-2-18581,Visva Bharati,Kolkata,West Bengal,48.19,31,53.56,25.23,86.74,67.26,4.71
 IR17-I-2-1-340,Indian Institute of Technology Ropar,Rupnagar,Punjab,47.84,32,66.25,24.68,62.91,75.73,4.07
 IR17-I-2-1-624,Siksha`O` Anusandhan University,Bhubaneswar,Odisha,46.72,33,63.31,17.17,66.02,78.18,15.57
@@ -38,11 +38,11 @@ IR17-I-2-18559,Bharath Institute of Higher Education & Research,Chennai,Tamil Na
 IR17-I-2-18639,Indian Institute of Technology Mandi,Mandi,Himachal Pradesh,45.62,37,68.77,16.43,61.11,74.31,4.06
 IR17-I-2-18414,Osmania University,Hyderabad,Telangana,45.52,38,46.63,20.56,91.98,58.41,11.16
 IR17-I-1-18700,Indian Institute of Management Calcutta,Kolkata,West Bengal,45.17,39,70.17,6.04,62.15,74.17,24.61
-IR17-I-1-30713,"Punjab Agricultural University, Ludhiana",Ludhiana,Punjab,44.99,40,77.94,16.51,57.20,48.44,3.83
+IR17-I-1-30713,Punjab Agricultural University, Ludhiana,Ludhiana,Punjab,44.99,40,77.94,16.51,57.20,48.44,3.83
 IR17-I-2-18261,Institute of Chemical Technology,Mumbai,Maharashtra,44.95,41,41.33,36.82,69.31,55.73,20.69
 IR17-I-2-17784,Jamia Hamdard,New Delhi,Delhi,44.84,42,52.44,27.86,73.99,57.57,1.87
 IR17-I-2-30702,Gauhati University,Guwahati,Assam,44.42,43,50.65,16.84,89.89,59.41,2.48
-IR17-I-1-18635,"Indian Institute of Science Education & Research, Kolkata",Mohanpur,West Bengal,44.38,44,56.68,27.13,57.82,70.00,6.79
+IR17-I-1-18635,Indian Institute of Science Education & Research Kolkata,Mohanpur,West Bengal,44.38,44,56.68,27.13,57.82,70.00,6.79
 IR17-I-2-18567,Bharathiar University,Coimbatore,Tamil Nadu,44.29,45,45.67,35.58,63.73,62.60,9.11
 IR17-I-2-1-140,National Institute of Technology Rourkela,Rourkela,Odisha,44.02,46,43.93,34.18,67.94,65.97,4.00
 IR17-I-2-18317,Kerala University,Thiruvananthapuram,Kerala,43.95,47,50.61,14.62,89.18,64.47,0.89
@@ -50,28 +50,28 @@ IR17-I-2-10563,Tezpur University,Tezpur,Assam,43.78,48,51.89,28.83,62.76,63.05,7
 IR17-I-1-700,TATA Institute of Social Sciences,Mumbai,Maharashtra,43.71,49,51.92,6.59,76.50,85.16,23.31
 IR17-I-2-18477,Shanmugha Arts Science Technology & Research Academy (SASTRA),Thanjavur,Tamil Nadu,43.50,50,43.10,31.09,68.04,65.18,11.10
 IR17-I-1-18704,Indian Institute of Management Lucknow,Lucknow,Uttar Pradesh,43.35,51,63.94,6.94,62.69,82.57,12.92
-IR17-I-2-1-333,"Indian Institute of Science Education & Research, Mohali",Mohali,Punjab,43.27,52,55.38,17.55,62.99,80.48,7.52
+IR17-I-2-1-333,Indian Institute of Science Education & Research Mohali,Mohali,Punjab,43.27,52,55.38,17.55,62.99,80.48,7.52
 IR17-I-1-18632,Indian Institute of Technology (Indian School of Mines),Dhanbad,Jharkhand,43.21,53,40.04,34.27,67.12,67.08,7.88
 IR17-I-2-1-2814248400,Panjab University,Chandigarh,Chandigarh,43.13,54,36.70,40.79,66.18,47.40,18.99
 IR17-I-2-1-596,S.R.M Institute of Science and Technology,Chennai,Tamil Nadu,43.07,55,45.80,25.07,64.33,78.65,10.80
 IR17-I-1-1-249,Indian Institute of Space Science and Technology,Thiruvananthapuram,Kerala,43.06,56,69.46,11.63,51.78,70.33,13.45
 IR17-I-2-1-457,Mysore University,Mysore,Karnataka,42.83,57,41.59,20.10,93.17,53.51,3.44
-IR17-I-2-18693,"National Institute of Pharmaceutical Education and Research, Hyderabad",Hyderabad,Telangana,42.74,58,61.28,14.30,60.78,75.15,3.90
+IR17-I-2-18693,National Institute of Pharmaceutical Education and Research, Hyderabad,Hyderabad,Telangana,42.74,58,61.28,14.30,60.78,75.15,3.90
 IR17-I-2-18424,Pondicherry University,Puducherry,Pondicherry,42.70,59,44.07,26.33,72.73,65.61,4.67
 IR17-I-2-1-697,Tamil Nadu Veterinary & Animal Sciences University,Chennai,Tamil Nadu,42.48,60,75.08,6.36,61.11,57.50,0.67
 IR17-I-2-1-661,Sri Ramachandra University,Chennai,Tamil Nadu,42.46,61,68.16,14.10,47.94,73.02,8.86
 IR17-I-2-18276,Anand Agricultural University,Anand,Gujarat,42.26,62,72.99,5.89,70.24,42.67,2.75
 IR17-I-1-18709,Indian Institute of Management Udaipur,Udaipur,Rajasthan,42.15,63,68.76,1.38,60.00,86.05,5.04
 IR17-I-2-18341,University of Madras,Chennai,Tamil Nadu,41.85,64,44.22,29.26,62.26,62.75,10.82
-IR17-I-1-1-493,National Institute of Technology Surathkal,Surathkal,Karnataka,41.80,65,42.31,21.43,71.88,62.86,20.13
+IR17-I-1-1-493,National Institute of Technology Karnataka,Surathkal,Karnataka,41.80,65,42.31,21.43,71.88,62.86,20.13
 IR17-I-1-18627,Indian Institute of Technology Bhubaneswar,Bhubaneswar,Odisha,41.75,66,57.89,20.92,51.73,74.82,2.66
 IR17-I-1-1-18708,Indian Institute of Management Tiruchirappalli,Tiruchirappalli,Tamil Nadu,41.73,67,71.34,1.09,60.00,77.67,2.31
 IR17-I-2-1-668,Sri Venkateswara University,Tirupati,Andhra Pradesh,41.48,68,45.88,24.43,68.72,64.57,1.94
 IR17-I-2-1-31,Andhra University,Visakhapatnam,Andhra Pradesh,41.38,69,40.32,18.59,80.31,55.75,20.72
-IR17-I-2-18672,"Indian Institute of Technology (Banaras Hindu University), Varanasi",Varanasi,Uttar Pradesh,41.37,70,42.85,19.35,72.56,57.89,23.96
+IR17-I-2-18672,Indian Institute of Technology (Banaras Hindu University), Varanasi,Varanasi,Uttar Pradesh,41.37,70,42.85,19.35,72.56,57.89,23.96
 IR17-I-1-1-347,Indian Institute of Management Kashipur,Kashipur,Uttarakhand,41.36,71,72.76,1.47,60.00,70.17,0.72
 IR17-I-2-18472,Sathyabama Institute of Science and Technology,Chennai,Tamil Nadu,41.30,72,42.32,22.17,65.64,77.13,11.08
-IR17-I-2-18690,"Indian Institute of Engineering Science and Technology, Shibpur",Howrah,West Bengal,41.28,73,45.50,27.57,64.98,54.35,9.29
+IR17-I-2-18690,Indian Institute of Engineering Science and Technology Shibpur,Howrah,West Bengal,41.28,73,45.50,27.57,64.98,54.35,9.29
 IR17-I-2-1-299,Jagadguru Sri Shivarathreeshwara University,Mysore,Karnataka,41.18,74,55.34,10.32,61.55,76.67,14.99
 IR17-I-2-1-2813959492,Thapar University,Patiala,Punjab,40.78,75,39.35,29.05,70.16,49.10,13.17
 IR17-I-2-30671,Dr. D. Y. Patil Vidyapeeth Pune,Pune,Maharashtra,40.59,76,64.52,4.90,60.27,65.47,11.61
@@ -96,6 +96,6 @@ IR17-I-2-1-448,Mizoram University,Aizwal,Mizoram,38.36,94,52.31,5.27,70.52,69.93
 IR17-I-2-1-373,Kurukshetra University,Kurushetra,Haryana,38.26,95,43.43,13.44,79.64,50.37,2.33
 IR17-I-2-10933,Shiv Nadar University,Chithera,Uttar Pradesh,37.95,96,59.15,9.43,47.70,73.23,5.24
 IR17-I-2-21078,Symbiosis International University,Pune,Maharashtra,37.67,97,44.80,8.92,60.44,80.33,14.31
-IR17-I-2-18634,"Indian Institute of Science Education & Research, Bhopal",Bhopal,Madhya Pradesh,37.32,98,46.13,18.21,53.21,70.78,3.00
+IR17-I-2-18634,Indian Institute of Science Education & Research Bhopal,Bhopal,Madhya Pradesh,37.32,98,46.13,18.21,53.21,70.78,3.00
 IR17-I-1-18710,Rajiv Gandhi Indian Institute of Management,Shillong,Meghalaya,37.28,99,61.42,1.89,60.00,62.21,0.57
 IR17-I-2-1-N002,KLE Academy of Higher Education and Research,Belagavi,Karnataka,37.25,100,64.13,4.90,49.61,65.54,0.69
