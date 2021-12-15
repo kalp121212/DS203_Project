@@ -4,7 +4,14 @@
 
 ### Course Project
 
-### Course Instructors - Prof. Amit Sethi, Prof. Manjesh Hanawal, Prof. S Sudarshan, Prof. Sunita Sarawagi
+### Course Instructors :
+- Prof. Amit Sethi
+- Prof. Manjesh Hanawal
+- Prof. S Sudarshan
+- Prof. Sunita Sarawagi
 
-### Team : Kalp Vyas, Rohan Kalbag, Asif Shaikh
+### Team : 
+- Kalp Vyas
+- Rohan Kalbag
+- Asif Shaikh
 
