@@ -14,13 +14,13 @@ past years a predictive model shall be trained to predict future
 rankings using the principles of regression.*
 
 ### Links
-[Project Report]()
+[Project Report](https://github.com/kalp121212/DS203_Project/blob/main/DS203_Project_Report.pdf)
 
-[EDA and Predictive Analysis for NIRF Rankings]()
+[EDA and Predictive Analysis for NIRF Rankings](https://github.com/kalp121212/DS203_Project/blob/main/NIRF_Ranking.ipynb)
 
-[EDA and Predictive Analysis for ARWU Rankings]()
+[EDA and Predictive Analysis for ARWU Rankings](https://github.com/kalp121212/DS203_Project/blob/main/ARWU_Ranking.ipynb)
 
-[EDA and Inferences for QS Rankings]()
+[EDA and Inferences for QS Rankings](https://github.com/kalp121212/DS203_Project/blob/main/QS_Ranking.ipynb)
 
 
 ### Project Contributors : 
