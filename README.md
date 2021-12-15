@@ -15,9 +15,13 @@ rankings using the principles of regression.*
 
 ### Links
 [Project Report]()
+
 [EDA and Predictive Analysis for NIRF Rankings]()
+
 [EDA and Predictive Analysis for ARWU Rankings]()
+
 [EDA and Inferences for QS Rankings]()
+
 
 ### Project Contributors : 
 - Asif Shaikh
